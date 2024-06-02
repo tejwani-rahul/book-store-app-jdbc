@@ -11,15 +11,17 @@ Welcome to the Online Bookstore App GitHub repository. This application is a com
 
 To set up the Online Bookstore app on your local machine:
 
-## Clone the Repository:
+### Clone the Repository
 
 ```bash
 git clone [https://github.com/yourusername/online-bookstore.git]
+```
 
-## Navigate to the Project Directory
+### Navigate to the Project Directory
 
 ```bash
 cd book-store-app-jdbc
+```
 
 ### Setup the Database
 - Create a MySQL database.
@@ -32,7 +34,7 @@ If using terminal then
 ```bash
 - javac BookStore.java
 - java BookStore.java
-
+```
 
 
 
