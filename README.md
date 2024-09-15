@@ -36,6 +36,12 @@ If using terminal then
 - java BookStore.java
 ```
 
+### Demo Video
+```bash
+- https://drive.google.com/file/d/1KEmnxaIssxGzKUk8rg8pXkaTzmMZCLCf/view?usp=sharing
+
+
+```
 
 
 
